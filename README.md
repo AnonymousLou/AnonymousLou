@@ -43,8 +43,38 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- 4. PROJETS PERSONNELS -->
+<!-- mes projets (à modifier) -->
 
 ## 🚀 Projects
 
-To be completed...
+<p align="center">
+  <a href="https://github.com/LouisDunocq/fractalens">
+    <img
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LouisDunocq&repo=fractalens&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8&cache_seconds=1800"
+      alt="fractalens"
+  />
+  </a>
+</p>
+
+
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=LouisDunocq&show_icons=true&theme=radical" alt="Statistiques de Louis" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LouisDunocq&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+</p>
+
+---
+
+## 📫 Me contacter
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/louis-dunocq/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:loudun2407@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
